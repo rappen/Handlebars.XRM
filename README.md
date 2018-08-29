@@ -2,6 +2,9 @@
 
 Now isn't this an interesting idea...
 
+Ref: https://github.com/rexm/Handlebars.Net
+
+
 ## Possible scenarios
 
 * Generic C# extensions for `Entity` class
